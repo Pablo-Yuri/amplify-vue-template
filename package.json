@@ -20,7 +20,7 @@
     "@aws-amplify/backend-cli": "^1.2.9",
     "@tsconfig/node20": "^20.1.4",
     "@types/node": "^20.12.5",
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^6.0.2",
     "@vue/tsconfig": "^0.5.1",
     "aws-cdk": "^2.137.0",
     "aws-cdk-lib": "^2.137.0",
